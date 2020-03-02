@@ -12,7 +12,7 @@ Create/open a plain .txt file and answer the following:
 
 4. In your AD domain, you have computers frequently switching between different networks: VPN, wireless, wired, and VLANs. You are using Microsoft’s implementation of DHCP and DNS. Describe how you would configure DHCP or DNS (or both) to handle those computers.
 
-5. Please describe in as much detail as you see necessary how you would design a network (Microsoft AD) to meet the following requirements:
+5. Please describe in as much detail as you see necessary how you would design a network for a mixed environment (Windows, Linux, \*BSD) to meet the following requirements:
    1. Discrete network segments for the following business groups
       1. Sales & Marketing
       2. Development
