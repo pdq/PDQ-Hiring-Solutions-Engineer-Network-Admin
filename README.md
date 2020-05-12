@@ -57,7 +57,7 @@ When finished, zip up the following into one archive, ensuring the single .zip f
 - [x] The XML files from the seven PDQ Inventory and PDQ Deploy questions. The XML files should be tied logically to their respective exercises. How you decide to do that is part of the assessment.
 - [x] The script from the scripting exercise
 
-Once you have completed the above, upload the .zip file to https://link.pdq.com/application (no account required). Submissions are reviewed within 3 - 6 business days by the entire team and considered for an interview.
+Once you have completed the above, upload the .zip file to https://fileinbox.com/application (no account required). Submissions are reviewed within 3 - 6 business days by the entire team and considered for an interview.
 
 ## :warning: Important
 *Do not include anything in your homework submission (other than your name as the zip file) that could identify you. Submissions are anonymized on receipt so our team does not know whose homework they are evaluating.*
